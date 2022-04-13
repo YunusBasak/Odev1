@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(0, 172, 184, 0.5);
+    list-style-position: inside;
+    text-align: center;
+}
+h1 {
+    color: brown;
+    
+}
+
+h2 {
+    color: red;
+}
+h3.color{
+    color: red;    
+}
+h3 .image{
+    color: blue;
+}
+.img{
+    width: auto;
+    height: auto;
+}
